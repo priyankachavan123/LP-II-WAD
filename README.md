@@ -1,2 +1,2 @@
 # LP-II-WAD
-lab practice
+lab practice of git command
